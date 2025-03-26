@@ -47,7 +47,7 @@ This is a **React-based food ordering application** that allows users to browse 
 ## Installation
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/food-ordering-app.git
+git clone https://github.com/JahnaviGorle/food_trackingusing_reactjs.git
 cd food-ordering-app
 ```
 ### 2️⃣ Install Dependencies
